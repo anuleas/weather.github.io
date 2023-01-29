@@ -1,0 +1,25 @@
+
+*
+{
+    color:black;
+}
+.counrtyresultstyle
+{
+    width:100%;
+}
+.resultstyle
+{
+    width:100%;
+    position:relative;
+    top:1px;
+}
+.icondegree
+{
+    background-color: aliceblue;
+    background-color: aquamarine;
+    display:flex;
+    width:150px;
+    height:80px;
+    border-radius: 10px;;
+    border:none;
+}

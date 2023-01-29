@@ -1,0 +1,54 @@
+.countrydetails
+{
+    width:100%;
+    position:relative;
+    top:10px;
+}
+
+.dropdownstyle
+{
+   
+    margin-left:50px;
+    margin-right:800px;
+}
+.resultgoogleresultstyle
+{
+    position:relative;
+    top:100px;
+    width:100%;
+    margin-left:50px;
+    margin-right:50px;
+
+   
+}
+.resultstyle
+{
+    width:100%;
+   
+   
+}
+.resultgoogle
+{
+    display:flex;
+    justify-content:space-around;
+    
+    padding:0px;
+    
+}
+.positionchartforecast
+{
+    width:100%;
+    position:relative;
+    top:100px;
+    margin-left:10px;
+    margin-right:20px;
+}
+.CHARTFORECAST
+{
+
+   width:100%;
+    display:flex;
+   
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
